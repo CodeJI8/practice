@@ -1,0 +1,126 @@
+{
+  "project_info": {
+    "project_number": "29419922372",
+    "project_id": "firestore-723f6",
+    "storage_bucket": "firestore-723f6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:29419922372:android:85dc8a9e33545a3de2ba91",
+        "android_client_info": {
+          "package_name": "com.example.adminpkart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "29419922372-nb61g03ijvuv6sdahbf3oee1hvh2isti.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBth67VKq-OC7GVvaHHjn-sdp5fxNYmwUM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "29419922372-nb61g03ijvuv6sdahbf3oee1hvh2isti.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:29419922372:android:53ea229b4be6003ee2ba91",
+        "android_client_info": {
+          "package_name": "com.example.pkart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "29419922372-nb61g03ijvuv6sdahbf3oee1hvh2isti.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBth67VKq-OC7GVvaHHjn-sdp5fxNYmwUM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "29419922372-nb61g03ijvuv6sdahbf3oee1hvh2isti.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:29419922372:android:60041f4f2aba5023e2ba91",
+        "android_client_info": {
+          "package_name": "com.example.practice"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "29419922372-nb61g03ijvuv6sdahbf3oee1hvh2isti.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBth67VKq-OC7GVvaHHjn-sdp5fxNYmwUM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "29419922372-nb61g03ijvuv6sdahbf3oee1hvh2isti.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:29419922372:android:1da2fb528ef9d429e2ba91",
+        "android_client_info": {
+          "package_name": "com.example.selfmadewallpaper"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "29419922372-nb61g03ijvuv6sdahbf3oee1hvh2isti.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBth67VKq-OC7GVvaHHjn-sdp5fxNYmwUM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "29419922372-nb61g03ijvuv6sdahbf3oee1hvh2isti.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
